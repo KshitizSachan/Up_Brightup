@@ -1,0 +1,256 @@
+body {
+  background-color: #fff;
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+/* Navigation Bar */
+nav {
+  color: #fff;
+  background-color: #1572A1;
+}
+.navbar-toggler-icon{
+  color: #fff;
+}
+
+.navigation {
+  font-family: "Montserrat-Black";
+  color: #fff;
+}
+.navigation:hover{
+  color: #9AD0EC;
+}
+
+.caro-images {
+  text-align: center;
+  padding-top: 10%;
+}
+
+.caro-image-5 {
+  width: 30%;
+}
+
+.display-images {
+  width: 66%;
+
+}
+
+.container-fluid {
+  padding: 20% 5% 5% 7%;
+  padding-top: 0;
+}
+
+.brand-font {
+  font-family: 'Permanent Marker';
+  padding-left: 10%;
+  color:#fff;
+}
+.navbar-brand:hover{
+  color: #9AD0EC;
+}
+
+
+.nav-item {
+  margin: 0 10px 0 10px;
+  
+}
+
+.navbar-toggler {
+  color: #fff;
+}
+
+/* Carousel */
+
+#carouselExampleControls {
+  background-color: #C1FFD7;
+  padding-bottom: 7%;
+}
+
+.arrows {
+  position: absolute;
+  margin: auto;
+  padding: 5%;
+}
+
+.about-coaching {
+  text-align: center;
+  background-color: #C1FFD7;
+  font-size: 1.5rem;;
+  padding: 2% 15% 5%;
+}
+
+.quotation {
+  font-style: italic;
+  font-weight: 900;
+}
+/* Coaching Advantages */
+#coaching-advantage {
+
+  padding: 7% 15% 0;
+}
+
+.adv-heading {
+  text-align: center;
+  padding-top: 2%;
+  padding-bottom: 5%;
+  font-weight: 500;
+  font-size: 2.5rem;
+}
+
+.coachin-adv {
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+
+.advantage-col {
+  padding-bottom: 13%;
+}
+
+.features-icons {
+  color: blue;
+  padding-bottom: 20px;
+}
+
+.adv-img-s {
+  margin: 10%;
+  width: 43%;
+  border-radius: 100%;
+}
+
+.adv-img {
+  width: 40%;
+  margin: 10%;
+  border-radius: 100%;
+}
+
+/* Student Reviews */
+#reviews {
+  padding: 7% 15% 0;
+  background-color: #C1FFD7;
+}
+
+.reviews-heading {
+  text-align: center;
+  padding: 0 0 8%;
+  font-size: 2.5rem;
+
+}
+
+.reviews-content {
+  text-align: center;
+  color: #fff;
+  font-style: italic;
+  font-family: 'IBM Plex Serif', serif;
+  font-size: 1.3rem;
+}
+
+.reviews-col {
+  padding-bottom: 13%;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.reviews-card {
+  background-color: #24A19C;
+  padding-left: 5%;
+  padding-right: 5%;
+  margin: 0 5%;
+}
+
+.students {
+  text-align: right;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  color: #fff;
+  font-size: 1rem;
+}
+
+
+/* FACULTY SECTION */
+
+#faculty {
+  text-align: center;
+  
+}
+
+.faculty_heading {
+  padding-top: 7%;
+  padding-bottom: 5%;
+  font-weight: 500;
+  font-size: 3.5rem;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.faculty-info {
+  /* padding: 10% 15%;*/
+}
+
+.faculty_img {
+  padding: 5% 0%;
+}
+
+
+@media screen and (max-width: 680px) {
+
+  .phone {
+    padding-top: 0px;
+    float: none;
+    text-align: center;
+  }
+
+  .social-icon {
+    float: none;
+    text-align: center;
+    width: 10%;
+  }
+}
+
+/* FOOTER SECTION */
+
+.address {
+  padding-left: 20%;
+}
+
+.phone {
+  padding-left: 30%;
+  float: right;
+}
+
+.footer_heading {
+  padding: 5% 15%;
+  text-align: center;
+}
+
+.copyright {
+  text-align: center;
+  font-size: 10px;
+  margin: 0;
+  padding: 2% 0 1%;
+}
+
+.social_handles {
+  text-align: center;
+}
+
+.social-icon {
+  padding-left: 20px;
+  color: #fff;
+}
+.social-icon:hover{
+  color: #9AD0EC;
+    
+ 
+}
+
+.contact_us {
+  background-color: #1572A1;
+  color: #fff;
+}
+
+.copyright-2 {
+  text-align: center;
+  font-size: 10px;
+  margin: 0;
+  padding-bottom: 2%;
+}
